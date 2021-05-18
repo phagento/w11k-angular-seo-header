@@ -1,6 +1,6 @@
 {
   "name": "@phagento/w11k.angular-seo-header",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Angular-SEO-Header takes care of meta tags, canonicals, keywords, robots tags with ui-router",
   "main": "angular-seo-header.js",
   "scripts": {
