@@ -1,5 +1,5 @@
 # w11k.angular-seo-header
-*dynamically set your meta tags, pagetitles and canonical tags*
+*Dynamically set your meta tags, page titles, and canonical tags*
 
 ![alt tag](http://fs2.directupload.net/images/150902/2s2nypvv.png "Screenshot Canonical Tags")
 
@@ -14,14 +14,14 @@ works with ui router's pageData' and allows you to set following html tags in th
 
 ## Get Started
 
-####1. install via bower: 
+####1. Install via npm: 
 
-    bower install --save w11k.angular-seo-header
+    npm install --save-dev @phagento/w11k.angular-seo-header
 
-#### 2. include module
+#### 2. Include module
      angular.module('myModule', ['w11k.angular-seo-header',]);
 
-#### 3. add the data to your view's
+#### 3. Add the data to your view
 
 add the following data.head object to your view initialisation and fill in your content.
 
