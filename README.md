@@ -14,9 +14,9 @@ works with ui router's pageData' and allows you to set following html tags in th
 
 ## Get Started
 
-####1. Install via npm: 
+#### 1. Install via npm: 
 
-    npm install --save-dev @phagento/w11k.angular-seo-header
+    npm install @phagento/w11k.angular-seo-header
 
 #### 2. Include module
      angular.module('myModule', ['w11k.angular-seo-header',]);
